@@ -2,6 +2,8 @@ title: RSPEC Notes
 tags: ["testing", "rspec"]
 notebook: DBC
 ---
+you can't see this ->>> [](testing)
+[](rspec)
 
 # RSPEC Notes
 
